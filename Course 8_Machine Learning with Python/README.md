@@ -84,3 +84,4 @@ In this module, I did a project based of what you have learned so far.
 
 
 
+![IBM Certificate](https://github.com/BBartee75/IBM---Data-Science/blob/main/Course%208_Machine%20Learning%20with%20Python/IBM%20Certificate%20-%20000J8GHNVQCZ.pdf)

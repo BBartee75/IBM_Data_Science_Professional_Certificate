@@ -56,4 +56,6 @@ Topics:
 - Recruiting for Data Science
 - Careers in Data Science
 - High School Students and Data Science Careers
-- The Report Structure    
+- The Report Structure  
+
+![IBM Certificate](https://github.com/BBartee75/IBM---Data-Science/blob/main/Course%201_What%20is%20Data%20Science/IBM%20Certificate%20-%20P88ZT7E48BWR.pdf)

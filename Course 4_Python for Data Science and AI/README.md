@@ -79,4 +79,7 @@ make_dashboard(x = x, gdp_change = gdp_change, unemployment = unemployment, titl
 ![dashboard](https://github.com/BBartee75/IBM---Data-Science/blob/main/Course%204_Python%20for%20Data%20Science%20and%20AI/Week%205/Graph.png)
 
 
+![IBM Certificate](https://github.com/BBartee75/IBM---Data-Science/blob/main/Course%204_Python%20for%20Data%20Science%20and%20AI/IBM%20Cerificate%20-%20H8FW6MF9VWDH.pdf)
+
+
 

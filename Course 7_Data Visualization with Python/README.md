@@ -85,3 +85,4 @@ In this module, I learned about advanced visualization tools such as waffle char
 
 
 
+![IBM Certificate](https://github.com/BBartee75/IBM---Data-Science/blob/main/Course%207_Data%20Visualization%20with%20Python/IBM%20Certificate%20-%20JDBM36OA0YWZ.pdf)

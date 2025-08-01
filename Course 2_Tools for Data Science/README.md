@@ -86,5 +86,8 @@ Topics:
 
 ### Week 4
 #### Final Assignment: Create and Share Your Jupyter Notebook
-Demonstrated my skills by creating and configuring a Jupyter Notebook.    
+Demonstrated my skills by creating and configuring a Jupyter Notebook.
+
+
+![IBM Certificate](https://github.com/BBartee75/IBM---Data-Science/blob/main/Course%202_Tools%20for%20Data%20Science/IBM%20Certificate%20-%209RL7ZS7P8CAJ.pdf)
   

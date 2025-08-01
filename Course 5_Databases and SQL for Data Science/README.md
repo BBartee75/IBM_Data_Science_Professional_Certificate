@@ -55,3 +55,4 @@ I would be working with multiple real world datasets for the city of Chicago. Th
 
 
 
+![IBM Certificate](https://github.com/BBartee75/IBM---Data-Science/blob/main/Course%205_Databases%20and%20SQL%20for%20Data%20Science/IBM%20Certificate%20-%204R7LKZ8HNN4U.pdf)

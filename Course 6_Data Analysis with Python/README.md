@@ -130,3 +130,5 @@ Goals:
 
 ![IBM Badge](ht)
 
+
+![IBM Certificate](https://github.com/BBartee75/IBM---Data-Science/blob/main/Course%206_Data%20Analysis%20with%20Python/IBM%20Certificate%20-%20ZZN81Y8F6AM4.pdf)

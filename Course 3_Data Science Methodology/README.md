@@ -46,3 +46,5 @@ In this module, I learned about what happens when a model is deployed and why mo
 - Learn about why model feedback is important.
 - Demonstrate understanding of the data science methodology by applying it to a problem that I define.
 
+
+![IBM Certifcate](https://github.com/BBartee75/IBM---Data-Science/blob/main/Course%203_Data%20Science%20Methodology/IBM%20Certificate%20-%204Q64X4FEKNS3.pdf)
