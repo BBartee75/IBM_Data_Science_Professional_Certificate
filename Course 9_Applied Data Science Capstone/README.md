@@ -10,7 +10,7 @@ You will be tasked with predicting if the first stage of the SpaceX Falcon 9 roc
 In this course, there will not be much new learning, instead you’ll focus on hands-on work to demonstrate and apply what you have learnt in previous courses.  By successfully completing this Capstone you will have added a project to your data science and machine learning portfolio to showcase to employers.
 
 ### Week 1     
-#### Introduction  ata%20
+#### Introduction 
 In this module, I learned about the scope of this capstone course and the context of the project that I worked on. Learned about different location data providers and what location data is normally composed of.
 
 ##### Key Concepts:   
