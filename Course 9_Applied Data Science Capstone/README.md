@@ -41,5 +41,8 @@ In this module, you will compile all of your activities into one place and deliv
 - Submit a link to my project notebook and a complete project report.
 
   
-[Applied Data Science Capstone](https://www.credly.com/badges/b990ef42-a82e-44c6-a11b-00dc695c4276/public_url)
+[Applied Data Science Capstone IBM BADGE](https://www.credly.com/badges/b990ef42-a82e-44c6-a11b-00dc695c4276/public_url)
+
+[IBM Data Science Capstone Certificate](https://github.com/BBartee75/IBM---Data-Science/blob/main/Course%209_Applied%20Data%20Science%20Capstone/IBM%20Data%20Science%20Capstonse%20Certificate.pdf)
+
 
