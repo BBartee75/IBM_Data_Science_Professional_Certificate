@@ -40,4 +40,6 @@ In this module, you will compile all of your activities into one place and deliv
 - Carry out the remaining work to complete the capstone project.
 - Submit a link to my project notebook and a complete project report.
 
+  
+[Applied Data Science Capstone](https://www.credly.com/earner/earned/badge/b990ef42-a82e-44c6-a11b-00dc695c4276)
 
