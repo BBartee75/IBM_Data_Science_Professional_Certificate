@@ -1,7 +1,6 @@
 # [IBM Data Science]()
 
 ## Course Info:   
-![courseinfo](IBM_DataScience.png)
 
 ## Course 1: [What is Data Science?](https://github.com/BBartee75/IBM---Data-Science/tree/main/Course%201_What%20is%20Data%20Science)       
 Taught by:    
