@@ -1,6 +1,6 @@
 # [IBM Data Science](https://www.coursera.org/professional-certificates/ibm-data-science)
 
-[IBM Data Science Professional Certificate - Bently Bartee](https://coursera.org/share/9e79d7e1a94d99085dbf9ad968a9b49a)
+## [IBM Data Science Professional Certificate - Bently Bartee](https://coursera.org/share/9e79d7e1a94d99085dbf9ad968a9b49a)
 
 ## Professional Certificate - 12 course series
 Prepare for a career in the high-growth field of data science. In this program, you’ll develop the skills, tools, and portfolio to have a competitive edge in the job market as an entry-level data scientist in as little as 4 months. No prior knowledge of computer science or programming languages is required. 
